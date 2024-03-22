@@ -2,6 +2,7 @@
 title: Talking to Myself
 date: 2024/3/23
 description: t2m
+tag: personal 
 author: guney
 ---
 
