@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'guneypedia',
     description: 'my tech blog',
-    
+    image: 'https://twitter.com/guneyberkayates/header_photo'
   }
 
   return (
