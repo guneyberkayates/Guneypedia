@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'guneypedia',
     description: 'my tech blog',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    
   }
 
   return (
